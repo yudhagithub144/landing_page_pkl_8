@@ -1,0 +1,529 @@
+/* navbar */
+.navbar {
+
+}
+
+.navbar-brand {
+  font-family: Manrope;
+  font-weight: 700;
+  font-size: 43.25px;
+}
+
+.navbar-nav {
+  font-family: Open sans;
+  font-weight: 600;
+  font-size: 16px;
+}
+
+.navbar button {
+  border-radius: 20px;
+  width: 80px;
+}
+
+.navbar-brand svg {
+  position: relative;
+  top: -5px;
+}
+/* akhir navbar */
+
+/* hero */
+.hero {
+  height: 870px;
+}
+
+.hero h1 {
+  font-family: Manrope;
+  font-size: 48px;
+  font-weight: 400;
+  position: relative;
+  top: 200px;
+}
+
+.hero p {
+  font-family: Open Sans;
+  font-size: 16px;
+  font-weight: 300;
+  position: relative;
+  top: 230px;
+}
+
+.hero button {
+  width: 150px;
+  color: black;
+  font-weight: bold;
+  border-radius: 20px;
+  position: relative;
+  top: 250px;
+}
+
+.hero .hero1 {
+  position: relative;
+  top: 100px;
+  left: 85px;
+}
+
+.hero .hero2 {
+  position: relative;
+  top: 120px;
+  left: 85px;
+}
+
+.hero .hero3 {
+  position: relative;
+  top: 130px;
+  right: 90px;
+}
+
+.hero .hero4 {
+  position: relative;
+  left: 320px;
+  top: -45px;
+}
+
+.hero .hero5 {
+  position: relative;
+  top: 200px;
+}
+
+.hero .hero6 {
+  position: relative;
+  top: 100px;
+}
+/* akhir hero */
+
+/* our service */
+.our-service {
+  height: 1300px;
+}
+
+.our-service p {
+  font-family: Open sans;
+  font-size: 20px;
+  color: rgba(119, 119, 119, 1);
+  font-weight: 400;
+  position: relative;
+  top: 100px;
+}
+
+.our-service h1 {
+  font-family: Manrope;
+  font-size: 48px;
+  font-weight: 400;
+  position: relative;
+  top: 100px;
+}
+
+.our-service .card {
+  width: 300px;
+  height: 354px;
+  position: relative;
+  top: 170px;
+  border: none;
+}
+
+.our-service img {
+  width: 300px;
+  height: 354px;
+}
+
+.our-service .card h5 {
+  font-family: Open sans;
+  font-size: 24px;
+  font-weight: 400;
+}
+
+.our-service .card p {
+  font-family: Open sans;
+  font-size: 17px;
+  font-weight: 400;
+  position: relative;
+  top: 10px;
+}
+
+.our-service button {
+  position: relative;
+  top: 30px;
+  right: 12px;
+  color: black;
+}
+/* akhir our service */
+
+/* we connect 1 */
+.we-connect1 {
+  height: 700px;
+  position: relative;
+  top: -200px;
+}
+
+.we-connect1 .connect1 {
+  width: 500px;
+  height: 494px;
+  border-radius: 24px;
+  object-fit: cover;
+}
+
+.we-connect1 .connect2 {
+  position: relative;
+  top: -300px;
+  left: 170px;
+}
+
+.we-connect1 svg {
+  position: relative;
+  top: 160px;
+  width: 30px;
+  left: 30px;
+}
+
+.we-connect1 h1 {
+  font-family: Manrope;
+  font-weight: 400;
+  font-size: 36px;
+  position: relative;
+  top: 100px;
+  left: 50px;
+}
+
+.we-connect1 p {
+  font-size: 20px;
+  font-family: Open Sans;
+  position: relative;
+  top: 120px;
+  left: 87px;
+  padding: 10px;
+}
+
+.we-connect1 button {
+  border-radius: 20px;
+  width: 140px;
+  position: relative;
+  top: 155px;
+  left: 50px;
+}
+/* akhir we connect 1 */
+
+/* we connect 2 */
+.we-connect2 .connect1 {
+  width: 444px;
+  height: 500px;
+  border-radius: 24px;
+  object-fit: cover;
+  position: relative;
+  left: 65px;
+}
+
+.we-connect2 .connect2 {
+  position: relative;
+  left: 80px;
+  top: -270px;
+}
+
+.we-connect2 h1 {
+  font-family: Manrope;
+  font-weight: 400;
+  font-size: 36px;
+  position: relative;
+  top: 100px;
+  left: px;
+}
+
+.we-connect2 .card {
+  position: relative;
+  top: 130px;
+  margin: 20px;
+  right: 20px;
+  height: 70px;
+  border-radius: 10px;
+}
+.we-connect2 img {
+  width: 14px;
+  position: relative;
+  top: 25px;
+  left: 7px;
+}
+
+.we-connect2 .card p {
+  position: relative;
+  top: -10px;
+}
+/* akhir we connect 2 */
+
+/* enterprise */
+.enterprise {
+  position: relative;
+  top: 300px;
+  background-color: rgba(10, 38, 64, 1);
+  height: 700px;
+}
+.enterprise h1 {
+    font-family: Manrope;
+    font-size: 48px;
+    font-weight: 400;
+    color: white;
+    position: relative;
+    top: 100px;
+}
+
+.enterprise .card {
+    position: relative;
+    top: 150px;
+    padding: 30px;
+    width: 350px;
+    margin: 13px;
+    border-radius: 12px;
+}
+
+.enterprise img {
+  width: 60px;
+  height: 60px;
+  position: relative;
+  border-radius: 50px;
+  padding: 5px;
+}
+
+.enterprise h6 {
+  font-family: Open Sans;
+  font-size: 16px;
+  font-weight: 700;
+  position: relative;
+  top: 10px;
+}
+
+.enterprise p {
+  position: relative;
+  left: 60px;
+  top: -30px;
+}
+/*  akhir enterprise */
+
+/* image */
+.image {
+    position: relative;
+    top: 500px;
+    height: 800px;
+}
+
+.image img {
+    width: 1100px;
+    height: 500px;
+    border-radius:20px ;
+    object-fit: cover;
+}
+
+.image h1 {
+  font-size: 30px;
+  font-family: Manrope;
+  font-weight: 400;
+  position: relative;
+  top: 35px;
+}
+
+.image .card {
+  position: relative;
+  top: 30px;
+  margin-top: 20px;
+}
+
+.image .svg1 {
+  position: relative;
+  left: 162px;
+}
+
+.image svg {
+  position: relative;
+  left: 150px;
+}
+/* akhir image */
+
+/* our blog */
+.our-blog {
+  position: relative;
+  height: 700px;
+  top: 500px;
+}
+
+.our-blog h1 {
+  font-family: Manrope;
+  font-size: 48px;
+  position: relative;
+  top: 20px;
+}
+
+.our-blog .card {
+  width: 360px;
+  margin: 10px;
+  border: none;
+  position: relative;
+  top: 50px;
+}
+
+.our-blog h6 {
+  font-family: Open Sans;
+  font-size: 16px;
+  font-weight: bold;
+  color: #0A2640;
+  position: relative;
+  top: 20px;
+}
+
+.our-blog h6 span {
+  font-family: Open Sans;
+  font-size: 15px;
+  font-weight: 300;
+}
+
+.our-blog p {
+  font-size: 16px;
+  font-family: Open Sans;
+  position: relative;
+  top: 30px;
+}
+
+.our-blog .gambar-1 {
+  background-color: #65E4A3;
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+  position: relative;
+  top: 60px;
+  object-fit: cover;
+}
+.our-blog .gambar-2 {
+  background-color: #65E4A3;
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+  position: relative;
+  top: 40px;
+  object-fit: cover;
+}
+.our-blog .gambar-3 {
+  background-color: #65E4A3;
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+  position: relative;
+  top: 40px;
+  object-fit: cover;
+}
+
+.our-blog .text {
+  position: relative;
+  left: 60px;
+  top: 1px;
+}
+.our-blog .text-1 {
+  position: relative;
+  left: 60px;
+  top: px;
+}
+.our-blog img {
+  width: 340px;
+  height: 260px;
+  object-fit: cover;
+  border-radius: 20px;
+}
+
+.our-blog button {
+  position: relative;
+  top: 120px;
+  border-radius: 20px;
+  width: 110px;
+}
+/* akhir our blog */
+
+/* ini-blog */
+.ini-blog {
+  position: relative;
+  top: 700px;
+}
+
+.ini-blog .card {
+  height: 300px;
+  background-color: #0A2640;
+  border-radius: 10px;
+}
+
+.ini-blog h1 {
+  color: #fff;
+  font-family: Manrope;
+  font-size: 48px;
+  font-weight: 400;
+  position: relative;
+  top: 40px;
+}
+
+.ini-blog input {
+  width: 370px;
+  border-radius: 20px;
+  position: relative;
+  top: 70px;
+}
+
+.ini-blog button {
+  width: 200px;
+  font-weight: bold;
+  color: #fff;
+  border-radius: 20px;
+  position: relative;
+  top: 70px;
+}
+/* akhir ini-blog */
+
+/* footer */
+.footer {
+  top: 900px;
+  position: relative;
+}
+
+.footer h1 {
+  font-family: Manrope;
+  font-weight: 700;
+  font-size: 43px;
+  position: relative;
+  left: 30px;
+  top: -43px;
+}
+
+.footer h6 {
+  font-family: Open Sans;
+  font-weight: 400;
+  font-size: 16px;
+  color: #777777;
+  position: relative;
+  top: -20px;
+}
+
+.footer h3 {
+  font-family: Open Sans;
+  font-weight: 400;
+  font-size: 16px;
+  color: #777777;
+  
+}
+
+.footer h5 {
+  font-family: Open Sans;
+  font-size: 15px;
+  font-weight: bold;
+  color: #000;
+  position: relative;
+  left: 25px;
+  
+}
+
+.footer p {
+  font-family: Open Sans;
+  font-size: 20px;
+  font-weight: 300;
+  position: relative;
+  left: 25px;
+}
+
+.footer p span {
+  background-color: #65E4A3;
+  padding: 6px;
+  border-radius: 20px;
+  font-weight: bold;
+}
+/* akhir footer */
